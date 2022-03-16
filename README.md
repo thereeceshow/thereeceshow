@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![Reece's Github Stats](https://github-readme-stats.vercel.app/api?username=thereeceshow)](https://github.com/thereeceshow/github-readme-stats)
+
 <!--
 **thereeceshow/thereeceshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning [Swift](https://www.swift.com/),[https://developer.apple.com/xcode/](Xcode), and iOS Devleopment.
+- 🎙️ My favorite Podcast: [Hardcore History - Ghosts of the Ostfront](https://www.dancarlin.com/product/hardcore-history-ghosts-ostfront-series/)
