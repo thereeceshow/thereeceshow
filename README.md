@@ -18,4 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning [Swift](https://www.swift.com/),[https://developer.apple.com/xcode/](Xcode), and iOS Devleopment.
-- 🎙️ My favorite Podcast: [Hardcore History - Ghosts of the Ostfront](https://www.dancarlin.com/product/hardcore-history-ghosts-ostfront-series/)
+- 🎙️ My favorite podcast: [Hardcore History - Ghosts of the Ostfront](https://www.dancarlin.com/product/hardcore-history-ghosts-ostfront-series/)
+- 🎬 My favorite movies: [The Shawshank Redemption](https://www.imdb.com/title/tt0111161/), [Moana](https://www.imdb.com/title/tt3521164/),[The Departed](https://www.imdb.com/title/tt0407887/)
+- 💬 Ask me about Coding, Agile, SCRUM, Photography, and Food
+- 📫 How to reach me: 
+- - 📧 reece@reecewalter.com
+- - 
