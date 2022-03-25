@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 
 
-![Reece's Codewars Banner](https://www.codewars.com/users/thereeceshow/badges/large)
+![Reece's Codewars Banner](https://www.codewars.com/users/thereeceshow/badges/small)
