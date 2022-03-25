@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Coding, Agile, SCRUM, Photography, and Food
 - 📫 How to reach me: 
 - - 📧 reece@reecewalter.com
+
+
+
+![Reece's Codewars Banner](https://www.codewars.com/users/thereeceshow/badges/large)
