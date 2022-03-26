@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereeceshow&layout=compact)](https://github.com/thereeceshow/github-readme-stats) [![Reece's Github Stats](https://github-readme-stats.vercel.app/api?username=thereeceshow)](https://github.com/thereeceshow/github-readme-stats)
+[![Reece's Github Stats](https://github-readme-stats.vercel.app/api?username=thereeceshow)](https://github.com/thereeceshow/github-readme-stats)
 
 <!--
 **thereeceshow/thereeceshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - - 📧 reece@reecewalter.com
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereeceshow&layout=compact)](https://github.com/thereeceshow/github-readme-stats) 
 
 ![Reece's Codewars Banner](https://www.codewars.com/users/thereeceshow/badges/small)
