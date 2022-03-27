@@ -26,15 +26,27 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereeceshow&layout=compact)](https://github.com/thereeceshow/github-readme-stats)
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Certified-CSM-informational?style=flat&logo=scrumalliance&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/Platform-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=009FDA)
 
+![](https://img.shields.io/static/v1?message=CSM®&style=plastic&logo=scrumalliance&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=MacOS&style=plastic&logo=macos&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=HTML+5&style=plastic&logo=html5&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=CSS+3&style=plastic&logo=sass&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Sass&style=plastic&logo=css3&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Bootstrap&style=plastic&logo=bootstrap&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=JavaScript&style=plastic&logo=javascript&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=React&style=plastic&logo=react&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=PHP&style=plastic&logo=php&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Laravel&style=plastic&logo=laravel&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Python&style=plastic&logo=python&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Django&style=plastic&logo=django&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Swift+5&style=plastic&logo=swift&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Bash&style=plastic&logo=gnu-bash&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Firebase&style=plastic&logo=firebase&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Digital+Ocean&style=plastic&logo=digitalocean&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Git&style=plastic&logo=git&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Github&style=plastic&logo=github&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Codewars&style=plastic&logo=codewars&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=React&logo=react&style=plastic&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 ![Reece's Codewars Banner](https://www.codewars.com/users/thereeceshow/badges/small)
 
 <!-- Actual text -->
@@ -54,3 +66,32 @@ You can find me on [![LinkedIn][1]][2].
 [2]: https://www.linkedin.com/in/reecewalter/
 
 [4]: https://bcert.me/suchyubxy
+
+
+<!--
+
+Former Badges:
+
+![](https://img.shields.io/badge/%20-CSM&#174;-informational?style=plastic&logo=scrumalliance&logoColor=white&color=009FDA)
+![](https://img.shields.io/badge/%20-MacOS-informational?style=plastic&logo=macos&logoColor=white&color=009FDA)
+![](https://img.shields.io/badge/%20-HTML_5-informational?style=plastic&logo=html5&logoColor=white&color=009FDA)
+![](https://img.shields.io/badge/%20-CSS_3-informational?style=plastic&logo=sass&logoColor=white&color=009FDA)
+![](https://img.shields.io/badge/%20-Sass-informational?style=plastic&logo=css3&logoColor=white&color=009FDA)
+![](https://img.shields.io/badge/%20-Bootstrap-informational?style=plastic&logo=bootstrap&logoColor=white&color=009FDA)
+![](https://img.shields.io/badge/%20-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=009FDA)
+![](https://img.shields.io/badge/%20-React-informational?style=plastic&logo=react&logoColor=white&color=009FDA)
+![](https://img.shields.io/badge/%20-PHP-informational?style=plastic&logo=php&logoColor=white&color=009FDA)
+![](https://img.shields.io/badge/%20-Laravel-informational?style=plastic&logo=laravel&logoColor=white&color=009FDA)
+![](https://img.shields.io/badge/%20-CSS_3-informational?style=plastic&logo=css3&logoColor=white&color=009FDA)
+![](https://img.shields.io/badge/%20-Python-informational?style=plastic&logo=python&logoColor=white&color=009FDA)
+![](https://img.shields.io/badge/%20-Django-informational?style=plastic&logo=django&logoColor=white&color=009FDA)
+![](https://img.shields.io/badge/%20-Swift_5-informational?style=plastic&logo=swift&logoColor=white&color=009FDA)
+![](https://img.shields.io/badge/%20-Bash-informational?style=plastic&logo=gnu-bash&logoColor=white&color=009FDA)
+![](https://img.shields.io/badge/%20-Firebase-informational?style=plastic&logo=firebase&logoColor=white&color=009FDA)
+![](https://img.shields.io/badge/%20-Digital_Ocean-informational?style=plastic&logo=digitalocean&logoColor=white&color=009FDA)
+![](https://img.shields.io/badge/%20-Git-informational?style=plastic&logo=git&logoColor=white&color=009FDA)
+![](https://img.shields.io/badge/%20-Github-informational?style=plastic&logo=github&logoColor=white&color=009FDA)
+![](https://img.shields.io/badge/%20-Codewars-informational?style=plastic&logo=codewars&logoColor=white&color=009FDA)
+![](https://img.shields.io/static/v1?message=React&logo=react&style=plastic&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
+
+-->
