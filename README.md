@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Reece's Github Stats](https://github-readme-stats.vercel.app/api?username=thereeceshow)](https://github.com/thereeceshow/github-readme-stats) 
+[![Reece's Github Stats](https://github-readme-stats.vercel.app/api?username=thereeceshow&show_icons=true&theme=transparent)](https://github.com/thereeceshow/github-readme-stats) 
 
 <!--
 **thereeceshow/thereeceshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,37 +16,47 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning [Swift](https://www.swift.com/), [XCode](https://developer.apple.com/xcode/), and iOS Devleopment.
-- 🎙️ My favorite podcast: [Hardcore History - Ghosts of the Ostfront](https://www.dancarlin.com/product/hardcore-history-ghosts-ostfront-series/)
-- 🎬 My favorite movies: [The Shawshank Redemption](https://www.imdb.com/title/tt0111161/), [Moana](https://www.imdb.com/title/tt3521164/),[The Departed](https://www.imdb.com/title/tt0407887/)
+- 📓 I'm teaching Highschools how to write code and create their won startups.
 - 💬 Ask me about Coding, Agile, SCRUM, Photography, and Food
 - 📫 How to reach me: 
 - - 📧 reece@reecewalter.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereeceshow&layout=compact)](https://github.com/thereeceshow/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereeceshow&show_icons=true&theme=transparent)](https://github.com/thereeceshow/github-readme-stats)
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/static/v1?message=CSM®&style=plastic&logo=scrumalliance&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=MacOS&style=plastic&logo=macos&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=HTML+5&style=plastic&logo=html5&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=CSS+3&style=plastic&logo=sass&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Sass&style=plastic&logo=css3&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Bootstrap&style=plastic&logo=bootstrap&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=JavaScript&style=plastic&logo=javascript&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=React&style=plastic&logo=react&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=PHP&style=plastic&logo=php&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Laravel&style=plastic&logo=laravel&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Python&style=plastic&logo=python&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Django&style=plastic&logo=django&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Swift+5&style=plastic&logo=swift&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Bash&style=plastic&logo=gnu-bash&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Firebase&style=plastic&logo=firebase&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Digital+Ocean&style=plastic&logo=digitalocean&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+#### Front End
+![](https://img.shields.io/static/v1?message=React&style=plastic&logo=react&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=JavaScript&style=plastic&logo=javascript&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=HTML+5&style=plastic&logo=html5&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=CSS+3&style=plastic&logo=CSS3&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Bootstrap&style=plastic&logo=bootstrap&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Sass&style=plastic&logo=sass&color=009FDA&label=%20&labelColor=5c5c5c)
+
+#### Back End
+![](https://img.shields.io/static/v1?message=PHP&style=plastic&logo=php&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Laravel&style=plastic&logo=laravel&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Python&style=plastic&logo=python&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Django&style=plastic&logo=django&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Node&style=plastic&logo=nodedotjs&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Next.js&style=plastic&logo=nextdotjs&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Wordpress&style=plastic&logo=wordpress&color=009FDA&label=%20&labelColor=5c5c5c)
+
+#### Mobile
+![](https://img.shields.io/static/v1?message=Xcode&style=plastic&logo=xcode&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Swift+5&style=plastic&logo=swift&color=009FDA&label=%20&labelColor=5c5c5c)
+
+#### Tools
+![](https://img.shields.io/static/v1?message=Bash&style=plastic&logo=gnu-bash&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Firebase&style=plastic&logo=firebase&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Digital+Ocean&style=plastic&logo=digitalocean&color=009FDA&label=%20&labelColor=5c5c5c)
 ![](https://img.shields.io/static/v1?message=Git&style=plastic&logo=git&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
 ![](https://img.shields.io/static/v1?message=Github&style=plastic&logo=github&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Codewars&style=plastic&logo=codewars&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=React&logo=react&style=plastic&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
+
+#### Certifications
+![](https://img.shields.io/static/v1?message=CSM®&style=plastic&logo=scrumalliance&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+
+
 ![Reece's Codewars Banner](https://www.codewars.com/users/thereeceshow/badges/small)
 
 <!-- Actual text -->
@@ -92,6 +102,8 @@ Former Badges:
 ![](https://img.shields.io/badge/%20-Git-informational?style=plastic&logo=git&logoColor=white&color=009FDA)
 ![](https://img.shields.io/badge/%20-Github-informational?style=plastic&logo=github&logoColor=white&color=009FDA)
 ![](https://img.shields.io/badge/%20-Codewars-informational?style=plastic&logo=codewars&logoColor=white&color=009FDA)
+![](https://img.shields.io/static/v1?message=React&logo=react&style=plastic&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=Codewars&style=plastic&logo=codewars&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
 ![](https://img.shields.io/static/v1?message=React&logo=react&style=plastic&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 
 -->
