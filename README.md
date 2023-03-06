@@ -26,38 +26,38 @@ Here are some ideas to get you started:
 ## 🔧 Technologies & Tools
 
 #### Front End
-![](https://img.shields.io/static/v1?message=React&style=plastic&logo=react&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=JavaScript&style=plastic&logo=javascript&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=HTML+5&style=plastic&logo=html5&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=CSS+3&style=plastic&logo=CSS3&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Bootstrap&style=plastic&logo=bootstrap&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Sass&style=plastic&logo=sass&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=React&style=for-the-badge&&logo=react&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=JavaScript&style=for-the-badge&&logo=javascript&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=HTML+5&style=for-the-badge&&logo=html5&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=CSS+3&style=for-the-badge&&logo=CSS3&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Bootstrap&style=for-the-badge&&logo=bootstrap&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Sass&style=for-the-badge&&logo=sass&color=009FDA&label=%20&labelColor=5c5c5c)
 
 #### Back End
-![](https://img.shields.io/static/v1?message=PHP&style=plastic&logo=php&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Laravel&style=plastic&logo=laravel&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Python&style=plastic&logo=python&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Django&style=plastic&logo=django&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Node&style=plastic&logo=nodedotjs&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Next.js&style=plastic&logo=nextdotjs&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Wordpress&style=plastic&logo=wordpress&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=PHP&style=for-the-badge&&logo=php&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Laravel&style=for-the-badge&&logo=laravel&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Python&style=for-the-badge&&logo=python&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Django&style=for-the-badge&&logo=django&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Node&style=for-the-badge&&logo=nodedotjs&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Next.js&style=for-the-badge&&logo=nextdotjs&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Wordpress&style=for-the-badge&&logo=wordpress&color=009FDA&label=%20&labelColor=5c5c5c)
 
 #### Mobile
-![](https://img.shields.io/static/v1?message=Xcode&style=plastic&logo=xcode&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Swift+5&style=plastic&logo=swift&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Xcode&style=for-the-badge&&logo=xcode&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Swift+5&style=for-the-badge&&logo=swift&color=009FDA&label=%20&labelColor=5c5c5c)
 
 #### Tools
-![](https://img.shields.io/static/v1?message=Bash&style=plastic&logo=gnu-bash&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Firebase&style=plastic&logo=firebase&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Digital+Ocean&style=plastic&logo=digitalocean&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Git&style=plastic&logo=git&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Github&style=plastic&logo=github&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Bash&style=for-the-badge&&logo=gnu-bash&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Firebase&style=for-the-badge&&logo=firebase&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Digital+Ocean&style=for-the-badge&&logo=digitalocean&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Git&style=for-the-badge&&logo=git&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=Github&style=for-the-badge&&logo=github&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
 
 #### Certifications
-![](https://img.shields.io/static/v1?message=CSM®&style=plastic&logo=scrumalliance&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
+![](https://img.shields.io/static/v1?message=CSM®&style=for-the-badge&&logo=scrumalliance&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
 
 
-![Reece's Codewars Banner](https://www.codewars.com/users/thereeceshow/badges/small)
+<!-- ![Reece's Codewars Banner](https://www.codewars.com/users/thereeceshow/badges/small) -->
 
 <!-- Actual text -->
 
