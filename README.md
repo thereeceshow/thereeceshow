@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" alt="Swift" title="Swift"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" title="Dart"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></code>
+	<code><a href="https://bcert.me/suchyubxy"><img width="50" src="https://bcert.me/bc/html/img/badges/generated/badge-7227.png" alt="Certified ScrumMaster" title="Certified ScrumMaster"/></a></code>
 </div>
 <!--
 #### Front End
@@ -77,11 +78,15 @@ Here are some ideas to get you started:
 <!-- Actual text -->
 
 
-### You can find me on [![LinkedIn][1]][2].
+### You can find me on [![LinkedIn][1]][2]
 
-<div align="center">
+<div>
 
+<a href="https://bcert.me/suchyubxy"><img width="100" src="https://bcert.me/bc/html/img/badges/generated/badge-7227.png" alt="Certified ScrumMaster" title="Certified ScrumMaster"/></a>
+
+<!--
 [![Certified Scrum Master][3]][4]
+-->
 
 </div>
 
