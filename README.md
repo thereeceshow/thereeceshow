@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📓 I'm teaching Highschools how to write code and create their won startups.
-- 💬 Ask me about Coding, Agile, SCRUM, Photography, and Food
-- 🌱 I’m currently learning:
-- - ✨ **Google UX Certificate** via _Coursera_
-- 📫 How to reach me: 
+- 📓 I'm teaching youth and adults how to become creators of technology.
+- 🔭 I’m currently working on a couple projects in healthcare and one in outdoors/recreation.
+- 💬 Ask me about Food, Travel, Business Ideas, and Web or Mobile Development
+- 📫 How to reach me:
 - - 📧 reece@reecewalter.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereeceshow&show_icons=true&theme=transparent)](https://github.com/thereeceshow/github-readme-stats)
