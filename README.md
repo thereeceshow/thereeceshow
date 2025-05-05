@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 <!-- Icons -->
 
-[1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png](https://cdn-icons-png.flaticon.com/512/174/174857.png (LinkedIn icon without padding)
 
 [3]: https://bcert.me/bc/html/img/badges/generated/badge-7227.png
 
