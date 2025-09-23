@@ -1,130 +1,52 @@
 ### Hi there 👋
 
-[![Reece's Github Stats](https://github-readme-stats.vercel.app/api?username=thereeceshow&show_icons=true&theme=transparent)](https://github.com/thereeceshow/github-readme-stats) 
+[![Reece's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thereeceshow&show_icons=true&theme=transparent)](https://github.com/thereeceshow)
 
-<!--
-**thereeceshow/thereeceshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me  
+<img src="https://bcert.me/bc/html/img/badges/generated/badge-7227.png" width="60" align="right"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-- 📓 I'm teaching youth and adults how to become creators of technology.
-- 🔭 I’m currently working on a couple projects in healthcare and one in outdoors/recreation.
--->
+- Founder at [LexLogic](https://lexlogic.dev)  
+- 📫 Reach me: **reece@lexlogic.dev**  
+- 🎓 Certified ScrumMaster <a href="https://bcert.me/suchyubxy">
 
-- 💬 Ask me about Food, Travel, Business Ideas, and Web or Mobile Development
-- 📫 How to reach me: 📧 reece@lexlogic.dev
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereeceshow&show_icons=true&theme=transparent)](https://github.com/thereeceshow/github-readme-stats)
-
-## 🔧 Technologies & Tools
-
-<div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" alt="Swift" title="Swift"/></code>
-	<code><a href="https://bcert.me/suchyubxy"><img width="50" src="https://bcert.me/bc/html/img/badges/generated/badge-7227.png" alt="Certified ScrumMaster" title="Certified ScrumMaster"/></a></code>
-</div>
-<!--
-#### Front End
-![](https://img.shields.io/static/v1?message=React&style=for-the-badge&&logo=react&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=JavaScript&style=for-the-badge&&logo=javascript&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=HTML+5&style=for-the-badge&&logo=html5&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=CSS+3&style=for-the-badge&&logo=CSS3&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Bootstrap&style=for-the-badge&&logo=bootstrap&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Sass&style=for-the-badge&&logo=sass&color=009FDA&label=%20&labelColor=5c5c5c)
-
-#### Back End
-![](https://img.shields.io/static/v1?message=PHP&style=for-the-badge&&logo=php&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Laravel&style=for-the-badge&&logo=laravel&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Python&style=for-the-badge&&logo=python&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Django&style=for-the-badge&&logo=django&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Node&style=for-the-badge&&logo=nodedotjs&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Next.js&style=for-the-badge&&logo=nextdotjs&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Wordpress&style=for-the-badge&&logo=wordpress&color=009FDA&label=%20&labelColor=5c5c5c)
-
-#### Mobile
-![](https://img.shields.io/static/v1?message=Xcode&style=for-the-badge&&logo=xcode&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Swift+5&style=for-the-badge&&logo=swift&color=009FDA&label=%20&labelColor=5c5c5c)
-
-#### Tools
-![](https://img.shields.io/static/v1?message=Bash&style=for-the-badge&&logo=gnu-bash&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Firebase&style=for-the-badge&&logo=firebase&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Digital+Ocean&style=for-the-badge&&logo=digitalocean&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Git&style=for-the-badge&&logo=git&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=Github&style=for-the-badge&&logo=github&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
-
-#### Certifications
-![](https://img.shields.io/static/v1?message=CSM®&style=for-the-badge&&logo=scrumalliance&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
--->
-
-<!-- ![Reece's Codewars Banner](https://www.codewars.com/users/thereeceshow/badges/small) -->
-
-<!-- Actual text -->
-
-
-### You can find me on [![LinkedIn][1]][2]
-
+### ⚡ Most Used Stacks
 <div>
-
-<a href="https://bcert.me/suchyubxy"><img width="100" src="https://bcert.me/bc/html/img/badges/generated/badge-7227.png" alt="Certified ScrumMaster" title="Certified ScrumMaster"/></a>
-
-<!--
-[![Certified Scrum Master][3]][4]
--->
-
+  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
+  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
+  <code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/></code>
+  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="PHP" title="PHP"/></code>
+  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
 </div>
 
-<!-- Icons -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereeceshow&layout=compact&theme=transparent)](https://github.com/thereeceshow)
 
-[1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+---
 
-[3]: https://bcert.me/bc/html/img/badges/generated/badge-7227.png
+## 🔧 Technologies & Tools  
 
-<!-- Links -->
+<!-- Official brand colors used -->
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
+![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-[2]: https://www.linkedin.com/in/reecewalter/
+---
 
-[4]: https://bcert.me/suchyubxy
+### 🌍 Connect With Me  
 
-
-<!--
-
-Former Badges:
-
-![](https://img.shields.io/badge/%20-CSM&#174;-informational?style=plastic&logo=scrumalliance&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/%20-MacOS-informational?style=plastic&logo=macos&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/%20-HTML_5-informational?style=plastic&logo=html5&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/%20-CSS_3-informational?style=plastic&logo=sass&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/%20-Sass-informational?style=plastic&logo=css3&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/%20-Bootstrap-informational?style=plastic&logo=bootstrap&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/%20-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/%20-React-informational?style=plastic&logo=react&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/%20-PHP-informational?style=plastic&logo=php&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/%20-Laravel-informational?style=plastic&logo=laravel&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/%20-CSS_3-informational?style=plastic&logo=css3&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/%20-Python-informational?style=plastic&logo=python&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/%20-Django-informational?style=plastic&logo=django&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/%20-Swift_5-informational?style=plastic&logo=swift&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/%20-Bash-informational?style=plastic&logo=gnu-bash&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/%20-Firebase-informational?style=plastic&logo=firebase&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/%20-Digital_Ocean-informational?style=plastic&logo=digitalocean&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/%20-Git-informational?style=plastic&logo=git&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/%20-Github-informational?style=plastic&logo=github&logoColor=white&color=009FDA)
-![](https://img.shields.io/badge/%20-Codewars-informational?style=plastic&logo=codewars&logoColor=white&color=009FDA)
-![](https://img.shields.io/static/v1?message=React&logo=react&style=plastic&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=Codewars&style=plastic&logo=codewars&logoColor=white&color=009FDA&label=%20&labelColor=5c5c5c)
-![](https://img.shields.io/static/v1?message=React&logo=react&style=plastic&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
-
--->
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reecewalter/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thereeceshow)
+[![](https://img.shields.io/badge/reece%40lexlogic.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reece@lexlogic.dev)
+[![](https://img.shields.io/badge/LexLogic.dev-0A0A0A?style=for-the-badge&logoColor=white)](https://lexlogic.dev)
