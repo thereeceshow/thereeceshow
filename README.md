@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
--->
-
 - 📓 I'm teaching youth and adults how to become creators of technology.
 - 🔭 I’m currently working on a couple projects in healthcare and one in outdoors/recreation.
+-->
+
 - 💬 Ask me about Food, Travel, Business Ideas, and Web or Mobile Development
-- 📫 How to reach me: 📧 reece@reecewalter.com
+- 📫 How to reach me: 📧 reece@lexlogic.dev
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereeceshow&show_icons=true&theme=transparent)](https://github.com/thereeceshow/github-readme-stats)
 
@@ -28,16 +28,11 @@ Here are some ideas to get you started:
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" alt="Swift" title="Swift"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" title="Dart"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/></code>
 	<code><a href="https://bcert.me/suchyubxy"><img width="50" src="https://bcert.me/bc/html/img/badges/generated/badge-7227.png" alt="Certified ScrumMaster" title="Certified ScrumMaster"/></a></code>
 </div>
 <!--
