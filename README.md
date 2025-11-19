@@ -22,8 +22,9 @@
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="PHP" title="PHP"/></code>
   <code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
 </div>
+&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereeceshow&layout=compact&theme=transparent)](https://github.com/thereeceshow)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereeceshow&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent)](https://github.com/thereeceshow)
 
 ---
 
