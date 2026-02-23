@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thereeceshow&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thereeceshow&theme=github_dark)
 
 ---
 
@@ -24,8 +24,8 @@
 </div>
 &nbsp;
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thereeceshow&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thereeceshow&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thereeceshow&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thereeceshow&theme=github_dark)
 
 ---
 
