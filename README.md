@@ -1,37 +1,28 @@
-### Hi there 👋
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Reece
+I am a Developer
+
+I am an experienced software engineer with years of experience in web and mobile development, specializing in React and various backend frameworks including Django, Node.js, and Drupal. Proven ability to develop and implement effective and efficient solutions that solve the needs for all stakeholders.
+
+* 🌍  I'm based in Lexington, KY
+* 📈  Founder at [LexLogic](https://lexlogic.dev) 
+* 🖥️  See my portfolio at [reecewalter.com](http://reecwalter.com)
+* 🧠  I'm currently learning a lot about genetic data
+* 👥  I'm looking to collaborate on anything challenging and interesting
+* 🎓  Certified ScrumMaster <sup>[CSM](https://bcert.me/suchyubxy)</sup>
+
+### My Gitbub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thereeceshow&theme=github_dark)
-
----
-
-### 👨‍💻 About Me  
-<img src="https://bcert.me/bc/html/img/badges/generated/badge-7227.png" width="60" align="right"/></a>
-
-- Founder at [LexLogic](https://lexlogic.dev)  
-- 📫 Reach me: **reece@lexlogic.dev**  
-- 🎓 Certified ScrumMaster <a href="https://bcert.me/suchyubxy">
-
----
-
-### ⚡ Most Used Stacks
-<div>
-  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
-  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
-  <code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/></code>
-  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="PHP" title="PHP"/></code>
-  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-</div>
-&nbsp;
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thereeceshow&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thereeceshow&theme=github_dark)
 
----
+### Skills
 
+![](https://skillicons.dev/icons?i=ts,react,nextjs,pnpm,npm,py,prisma,django,php,laravel,tailwind,js,css,html,git,vercel,nodejs,sass,bitbucket,github,gitlab,fastapi,webpack,vite,postgres,supabase,graphql,mysql,sqlite,mongodb,docker,aws,vscode,vim,wordpress,postman,replit,ps,pr,ae&perline=10&theme=dark)
+<!--
 ## 🔧 Technologies & Tools  
 
-<!-- Official brand colors used -->
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -43,12 +34,8 @@
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+-->
 
----
-
-### 🌍 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reecewalter/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thereeceshow)
-[![](https://img.shields.io/badge/reece%40lexlogic.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reece@lexlogic.dev)
-[![](https://img.shields.io/badge/LexLogic.dev-0A0A0A?style=for-the-badge&logoColor=white)](https://lexlogic.dev)
+### Connect With Me  
+[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/reecewalter/)
+[![My Skills](https://skillicons.dev/icons?i=gmail&perline=3)](mailto:reece@lexlogic.dev)
