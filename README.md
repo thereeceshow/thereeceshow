@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Reece's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thereeceshow&show_icons=true&theme=transparent)](https://github.com/thereeceshow)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thereeceshow&theme=algolia)
 
 ---
 
@@ -24,7 +24,8 @@
 </div>
 &nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thereeceshow&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent)](https://github.com/thereeceshow)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thereeceshow&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thereeceshow&theme=algolia)
 
 ---
 
